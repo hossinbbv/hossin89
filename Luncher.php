@@ -1,5 +1,4 @@
-<?php
-/*
+Hossin89
 سورس اصلی ربات پی وی رسان
 @PvResanBot
 دست هیچ بنی بشری نیست و نخواهد بود
@@ -28,8 +27,8 @@ https://feelthecode.com
 صورت پذیرد
 
 site: https://feelthecode.com
-Telegram Bot: https://telegram.me/PvResanBot
-Telegram Channel: https://telegram.me/PvResan
+Telegram Bot: https://telegram.me/hossin89
+Telegram Channel: https://telegram.me/hossin
 
 یا علی خدا قوت
 */
